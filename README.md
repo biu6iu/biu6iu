@@ -2,8 +2,7 @@
 
 Aspiring full stack developer | Computing & Software Systems @ University of Melbourne
 
-- Languages: Python, Java, C, TypeScript (learning), React (learning)
-- Hobbies: Basketball, Photography
+- Languages: Python, Java, C, SQL
 
 ## Feel free to reach out!
 [LinkedIn](https://www.linkedin.com/in/steven-lu-04b603300/)
