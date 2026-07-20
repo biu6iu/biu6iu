@@ -1,3 +1,5 @@
 # biubiu :D
 
+```
 machine.learn()
+```
