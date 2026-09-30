@@ -1,5 +1,3 @@
-# biubiu :D
+# biubiu
 
-```
-machine.learn()
-```
+one day i'll understand, but not today 
