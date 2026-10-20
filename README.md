@@ -1,1 +1,1 @@
-one day i'll understand, but not today 
+The more I know, the less I know
